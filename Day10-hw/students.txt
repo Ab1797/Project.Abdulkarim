@@ -1,0 +1,3 @@
+Student Name: Ali, Age: 23, Address: Riyadh, Student ID: 12345, Course: Computer Science
+Student Name: Sara, Age: 22, Address: Jeddah, Student ID: 12346, Course: Mathematics
+Student Name: Omar, Age: 24, Address: Dammam, Student ID: 12347, Course: Physics
